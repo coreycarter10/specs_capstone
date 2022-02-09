@@ -5,7 +5,7 @@
 ## MVP
 - Register user | SQL Post
 - Login authentication | SQL Get/Post
-- Booking page for scheduling appointments | SQL ost/Delete 
+- Booking page for scheduling appointments | SQL Post/Delete 
 - Ability to view product page and add products to cart
 - Ability to view a the cart page with a total sum of all products in the cart
 
